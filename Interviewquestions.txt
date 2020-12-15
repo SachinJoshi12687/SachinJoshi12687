@@ -1,0 +1,38 @@
+
+Questions : 
+	1. How To Test PDF Files Using Selenium Automation?
+	Answer : How To Test PDF Files Using Selenium Automation? (lambdatest.com)
+	2. What types of Testing we can do with Selenium ?
+		a. Smoke Testing
+		b. Sanity Testing
+		c. UI Testing
+		d. Database Testing
+		e. Regression Testing/System Testing.
+	3. What scenarios can be automated using selenium ?
+		a. Dynamic content
+		b. Java Script executors
+		c. Handling keyboard and mouse events
+		d. Services supporting selenium
+	4. What scenarios cannot be automated using selenium ?
+		a. Bitmap comparison
+		b. Automating captcha
+		c. Reading/scanning barcodes
+		d. OTP submission
+	5. What are components of selenium?
+		a. Selenium IDE
+			i. Easy record and play tool
+			ii. Provides simplified recordings, editing, and debugging capabilities
+			iii. Provides simplest way to learn selenium syntax
+			iv. Supports importing test scripts in multiple languages like python, java, ruby with RC & WebDriver
+		b. Selenium 1.0 (Remote Control)
+			i. First component developed in selenium
+			ii. Test cases interacts with Selenium RC server which acts as mediator
+			iii. Server interpreter with code and convert them to JavaScript
+		c. Selenium 2.0/3.0 (WebDriver)
+			i. Simple architecture
+			ii. No server needed
+			iii. Faster than RC
+		d. Selenium GRID
+			i. Running parallel test cases
+			ii. Executes automation framework on different nodes/machines
+			iii. Support selenium WebDriver and does not support selenium RC
