@@ -1,0 +1,5 @@
+******** Repo Paths and Purpose *****************
+
+1. Java Programs - 
+   Local machine path : /Users/sachinjoshi/Repo/JavaPrograms
+   Repo URL : 
