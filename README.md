@@ -8,4 +8,5 @@
 - 📫 How to reach me: create an issue on my public repo SachinJoshi12687/SachinJoshi12687
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SachinJoshi12687&count_private=true&count_public=true&show_icons=true&theme=gruvbox" />
-<!-- this line will show top languages usede for public repos ->(cut till here) <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinJoshi12687&layout=compact" />-->
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinJoshi12687&layout=compact" />
+<!-- this line will show top languages used for public repos ->(cut till here) <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinJoshi12687&layout=compact" />-->
