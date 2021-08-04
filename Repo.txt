@@ -3,3 +3,14 @@
 1. Java Programs - 
    Local machine path : /Users/sachinjoshi/Repo/JavaPrograms
    Repo URL : https://github.com/SachinJoshi12687/JavaPrograms
+
+
+
+
+
+------------ Notes ---------------
+If you have renamed your branch name from main to master in your repository then execute below commands to change main to master on you local machine
+git branch -m main master
+git fetch origin
+git branch -u origin/master master
+git remote set-head origin -a
